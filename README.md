@@ -1,5 +1,7 @@
 # Pokedex-
 Criação de uma Pokedéx consumindo o PokeAPI com JS 
+Link do projeto: 
+https://mateus-cypriano.github.io/Pokedex-/
 
 <img width="1654" height="1009" alt="image" src="https://github.com/user-attachments/assets/74a224ef-2302-44a4-9062-add34f712aca" />
 
